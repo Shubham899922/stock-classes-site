@@ -1,0 +1,1 @@
+// Hero Section Code Placeholder

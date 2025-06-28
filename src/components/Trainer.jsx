@@ -1,0 +1,1 @@
+// Trainer Section with image and bio Placeholder
